@@ -1,0 +1,74 @@
+ PRODUKTRON - PROIZVODNJA AUDIO OPREME   AMPBOM - MATERIJALNI TROSAK PROIZVODA                                       STRANA    1
+
+ PROIZVOD: AMP-200T   POJACALO CIJEVNI 200W
+ -----------------------------------------------------------------------------------------------------
+ NIVO   BROJ DIJ.  NAZIV                          T JM    KOL/SKLP  KOL/PROI   STD.CIJENA        IZNOS
+ -----------------------------------------------------------------------------------------------------
+ 0      AMP-200T   POJACALO CIJEVNI 200W          F KOM      1.000     1.000
+ .1     TUBE-EL34  ELEKTRONSKA CIJEV EL34         P KOM      4.000     4.000        14.50        58.00
+ .1     TUBE-12AX  ELEKTRONSKA CIJEV 12AX7        P KOM      3.000     3.000         9.80        29.40
+ .1     TRF-PWR500 TRANSFORMATOR MREZNI 500VA     P KOM      1.000     1.000        62.00        62.00
+ .1     TRF-OUT01  TRANSFORMATOR IZLAZNI          P KOM      1.000     1.000        48.50        48.50
+ .1     CHS-AMP01  KUCISTE POJACALA CELIK         P KOM      1.000     1.000        35.00        35.00
+ .1     PCB-PRE01  PLOCA PREDPOJACALA             S KOM      1.000     1.000
+ ..2    PCB-BLANK  PCB PLOCA PRAZNA               P KOM      1.000     1.000         4.20         4.20
+ ..2    RES-KIT01  OTPORNICI KOMPLET              P SET      1.000     1.000         3.20         3.20
+ ..2    POT-10K    POTENCIOMETAR 10K LOG          P KOM      6.000     6.000         1.10         6.60
+ ..2    CAP-470U   KONDENZATOR 470UF 400V         P KOM      2.000     2.000         1.85         3.70
+ .1     PCB-PWR01  PLOCA NAPAJANJA                S KOM      1.000     1.000
+ ..2    PCB-BLANK  PCB PLOCA PRAZNA               P KOM      1.000     1.000         4.20         4.20
+ ..2    CAP-470U   KONDENZATOR 470UF 400V         P KOM      4.000     4.000         1.85         7.40
+ ..2    RES-KIT01  OTPORNICI KOMPLET              P SET      1.000     1.000         3.20         3.20
+ .1     JACK-635   KONEKTOR JACK 6.35MM           P KOM      2.000     2.000         0.90         1.80
+ .1     KNOB-01    DUGME POTENCIOMETRA            P KOM      6.000     6.000         0.35         2.10
+ -----------------------------------------------------------------------------------------------------
+ MATERIJALNI TROSAK JEDNOG KOMADA (KM):                                                        269.30 PRODUKTRON - PROIZVODNJA AUDIO OPREME   AMPBOM - MATERIJALNI TROSAK PROIZVODA                                       STRANA    2
+
+ PROIZVOD: MIX-1602   MIKSETA 16 KANALA
+ -----------------------------------------------------------------------------------------------------
+ NIVO   BROJ DIJ.  NAZIV                          T JM    KOL/SKLP  KOL/PROI   STD.CIJENA        IZNOS
+ -----------------------------------------------------------------------------------------------------
+ 0      MIX-1602   MIKSETA 16 KANALA              F KOM      1.000     1.000
+ .1     CHS-MIX01  KUCISTE MIKSETE ALU            P KOM      1.000     1.000        54.00        54.00
+ .1     MOD-CH01   MODUL KANALA MIKSETE           S KOM     16.000    16.000
+ ..2    PCB-BLANK  PCB PLOCA PRAZNA               P KOM      1.000    16.000         4.20        67.20
+ ..2    FADER-60   KLIZNI POTENCIOMETAR 60MM      P KOM      1.000    16.000         2.75        44.00
+ ..2    POT-10K    POTENCIOMETAR 10K LOG          P KOM      4.000    64.000         1.10        70.40
+ ..2    KNOB-01    DUGME POTENCIOMETRA            P KOM      4.000    64.000         0.35        22.40
+ ..2    XLR-F01    KONEKTOR XLR ZENSKI            P KOM      1.000    16.000         1.60        25.60
+ ..2    JACK-635   KONEKTOR JACK 6.35MM           P KOM      1.000    16.000         0.90        14.40
+ ..2    RES-KIT01  OTPORNICI KOMPLET              P SET      0.500     8.000         3.20        25.60
+ .1     PCB-PWR01  PLOCA NAPAJANJA                S KOM      1.000     1.000
+ ..2    PCB-BLANK  PCB PLOCA PRAZNA               P KOM      1.000     1.000         4.20         4.20
+ ..2    CAP-470U   KONDENZATOR 470UF 400V         P KOM      4.000     4.000         1.85         7.40
+ ..2    RES-KIT01  OTPORNICI KOMPLET              P SET      1.000     1.000         3.20         3.20
+ .1     XLR-F01    KONEKTOR XLR ZENSKI            P KOM      2.000     2.000         1.60         3.20
+ .1     KNOB-01    DUGME POTENCIOMETRA            P KOM      8.000     8.000         0.35         2.80
+ -----------------------------------------------------------------------------------------------------
+ MATERIJALNI TROSAK JEDNOG KOMADA (KM):                                                        344.40 PRODUKTRON - PROIZVODNJA AUDIO OPREME   AMPBOM - MATERIJALNI TROSAK PROIZVODA                                       STRANA    3
+
+ PROIZVOD: SPK-1215   ZVUCNA KUTIJA 12IN 150W
+ -----------------------------------------------------------------------------------------------------
+ NIVO   BROJ DIJ.  NAZIV                          T JM    KOL/SKLP  KOL/PROI   STD.CIJENA        IZNOS
+ -----------------------------------------------------------------------------------------------------
+ 0      SPK-1215   ZVUCNA KUTIJA 12IN 150W        F KOM      1.000     1.000
+ .1     CAB-SPK12  KUTIJA MDF 12IN                P KOM      1.000     1.000        28.00        28.00
+ .1     SPK-WOOF12 ZVUCNIK BAS 12IN 150W          P KOM      1.000     1.000        41.00        41.00
+ .1     SPK-TWT01  VISOKOTONAC 1IN                P KOM      1.000     1.000        12.40        12.40
+ .1     XOVER-01   SKRETNICA 2-SMJERNA            S KOM      1.000     1.000
+ ..2    PCB-BLANK  PCB PLOCA PRAZNA               P KOM      1.000     1.000         4.20         4.20
+ ..2    IND-COIL1  ZAVOJNICA 1MH                  P KOM      2.000     2.000         2.10         4.20
+ ..2    CAP-470U   KONDENZATOR 470UF 400V         P KOM      1.000     1.000         1.85         1.85
+ ..2    RES-KIT01  OTPORNICI KOMPLET              P SET      0.250     0.250         3.20         0.80
+ .1     JACK-635   KONEKTOR JACK 6.35MM           P KOM      2.000     2.000         0.90         1.80
+ -----------------------------------------------------------------------------------------------------
+ MATERIJALNI TROSAK JEDNOG KOMADA (KM):                                                         94.25 PRODUKTRON - PROIZVODNJA AUDIO OPREME   AMPBOM - MATERIJALNI TROSAK PROIZVODA                                       STRANA    4
+
+ ZBIRNI PREGLED - MATERIJALNI TROSAK PO PROIZVODU
+ -----------------------------------------------------------------------------------------------------
+ AMP-200T    POJACALO CIJEVNI 200W                   269.30 KM
+ MIX-1602    MIKSETA 16 KANALA                       344.40 KM
+ SPK-1215    ZVUCNA KUTIJA 12IN 150W                  94.25 KM
+ -----------------------------------------------------------------------------------------------------
+
+ *** KRAJ IZVJESTAJA ***
